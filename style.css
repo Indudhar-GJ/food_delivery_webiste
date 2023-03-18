@@ -27,16 +27,6 @@ nav .wholeleft{
     padding: 10px;
 }
 
-/* .leftcontent a{
-    color: white;
-    text-decoration: none;
-    margin: 10px 25px;
-    padding: 4px 12px;
-    font-size: 1.1em;
-    border: 2px solid rgba(255, 89, 0, 0.763);
-    background-color: rgb(218, 102, 53);
-    border-radius: 7px;
-} */
 
 .leftcontent a{
     text-decoration: none;
@@ -470,23 +460,7 @@ nav .wholeleft{
 
 /* section 8 */
 
-/* .sec8::before {
-    content: "Be Our Member and Get Discount Up To 35%";
-    color: white;
-    text-align: center;
-    display: block;
-    position: absolute;
-    background: url(https://kumaribasket.com/wp-content/uploads/2022/07/393497851-H-scaled.jpg) no-repeat;
-    background-position: center;
-    background-size: cover;
-    width: 1300px;
-    height: 361px;
-    z-index: -1;
-    top: 0;
-    opacity: 0.7;
-    border-radius: 100px;
-    margin: 100px;
-} */
+
 
 .sec8{
     display: flex;
